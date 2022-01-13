@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-contaiher {
+  margin-top: 0;
+  background-color: lightgreen;
+  background-image: url(../img/green-phone-virus.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 15vh;
+}
+
+.header-heading {
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.main-container {
+  height: 70vh;
+}
+
+.footer-container {
+  background-color: lightskyblue;
+  background-image: url(../img/blue-phone-virus.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 15vh;
+}
+
