@@ -1,4 +1,4 @@
-# hw-dom-loading-sorting
+# hw-dom-loading-sorting [![Build status](https://ci.appveyor.com/api/projects/status/4w5owk48o3km404c?svg=true)](https://ci.appveyor.com/project/DenViRus/ahj-dom-loading-sorting) [[Github Pages]()]
 ---
 
 #### Легенда
